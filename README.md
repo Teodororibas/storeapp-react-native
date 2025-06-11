@@ -21,7 +21,6 @@ Aplicativo de e-commerce desenvolvido com **React Native**, oferecendo uma exper
 - **React Native** - Biblioteca para desenvolvimento de apps móveis multiplataforma.
 - **Expo** - Ferramenta para facilitar o desenvolvimento e teste do app.
 - **Supabase** (ou Firebase) - Backend para autenticação, banco de dados e armazenamento.
-- **Stripe** (opcional) - Integração para processamento de pagamentos.
 - **React Navigation** - Navegação entre telas.
 
 ---
