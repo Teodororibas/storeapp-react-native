@@ -1,0 +1,9 @@
+Stack:
+- Index
+- (Tabs)
+    - Inicio
+    - Stack Categorias
+        - Listagem de categorias
+        - Listagem de produtos de UMA categoria
+    - Sobre mim
+- Produto Único
