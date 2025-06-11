@@ -1,33 +1,35 @@
 # StoreApp React Native
 
-Aplicativo de e-commerce desenvolvido com **React Native**, oferecendo uma experiência móvel para compra de produtos diretamente do celular.
+StoreApp é um aplicativo móvel desenvolvido em React Native que serve como uma plataforma para gerenciamento e visualização de produtos de uma loja. O projeto foi criado para facilitar a interação do usuário com o catálogo de móveis, possibilitando navegação e funcionalidades básicas para um app de loja.
 
 ---
 
-## Funcionalidades
+## 📱 Tecnologias Utilizadas
 
-- Listagem de produtos com imagens e detalhes.
-- Busca e filtro de produtos.
-- Carrinho de compras.
-- Finalização de compra com integração de pagamento.
-- Autenticação de usuários (login e cadastro).
-- Tela de perfil do usuário.
-- Interface responsiva para dispositivos móveis.
+- **React Native** – Framework para desenvolvimento mobile multiplataforma (iOS e Android).
+- **Expo** – Ferramenta para facilitar o desenvolvimento, build e deploy do app React Native.
+- **React Navigation** – Biblioteca para navegação entre telas.
+- **Axios** – Cliente HTTP para consumir APIs (se estiver usando).
+- **Context API / Redux** (caso use para gerenciamento de estado).
 
 ---
 
-## Tecnologias Utilizadas
+## 🚀 Funcionalidades
 
-- **React Native** - Biblioteca para desenvolvimento de apps móveis multiplataforma.
-- **Expo** - Ferramenta para facilitar o desenvolvimento e teste do app.
-- **Supabase** (ou Firebase) - Backend para autenticação, banco de dados e armazenamento.
-- **React Navigation** - Navegação entre telas.
+- Listagem de produtos/móveis.
+- Detalhes dos produtos.
+- Navegação entre telas.
+- Layout responsivo para dispositivos móveis.
+- Integração com backend (API) para carregar dados dinâmicos (se aplicável).
 
 ---
 
-## Instalação
+## 💻 Como Rodar o Projeto
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Teodororibas/storeapp-react-native.git
-   cd storeapp-react-nati
+### Pré-requisitos
+
+- Node.js instalado na sua máquina.
+- Expo CLI instalado globalmente:
+
+```bash
+npm install -g expo-cli
